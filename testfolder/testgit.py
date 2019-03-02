@@ -7,3 +7,5 @@ y = 0.5*x**2
 
 plt.scatter(x,y)
 plt.show()
+
+# added some test
